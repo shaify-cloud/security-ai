@@ -1,1 +1,1 @@
-# CCM-Gemini and CCM-OpenAI are Google Co-lab notebooks showing a code that uses generative AI to create a malicious urgent request for fund transfer email.
+CCM-Gemini and CCM-OpenAI are Google Co-lab notebooks showing a code that uses generative AI to create a malicious urgent request for fund transfer email.
